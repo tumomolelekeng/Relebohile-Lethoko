@@ -1,0 +1,37 @@
+body {
+	font-family: Arial;
+	background: #f4f4f4;
+}
+
+
+nav  {
+	background: #333;
+	padding: 10px;
+	text-align: center;
+}
+
+
+nav a {
+	color: blue;
+	margin: 10px;
+	text-decoration: none;
+}
+
+header {
+	text-align: center;
+	padding: 20px;
+}
+
+.episode, .host {
+	background: hotpink;
+	margin: 15px;
+	padding: 15px;
+	border-radius: 8px;
+}
+footer{
+	text-align: center;
+	background: #222;
+	color: hotpink;
+	padding: 10px;
+}
+
